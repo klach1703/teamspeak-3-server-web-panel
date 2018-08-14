@@ -9,6 +9,12 @@ Panel web pour gérer son serveur teamspeak 3, créer avec php.
   <li>Style HTML brut (sans css)</li>
 </ul>
 
+<h4>Informations additionnels :</h4>
+<ul>
+  <li>Si vous avez besoin d'aide vous pouvez me contacter</li>
+  <li>Je suis ouvert à toute suggestion (je n'ai fournis que la partie fonctionnel imaginons vous souhaitez un design avec vous pouvez en faire part).</li>
+</ul>
+
 # Installation
 <ul>
   <li>Upload les fichiers</li>
