@@ -1,4 +1,4 @@
-<!-- CopyRight Florentin Ledy -->
+
 
 <?php
 	include 'init.php';
